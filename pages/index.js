@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Ibanga Escape" />
         <p className="Our website for our resort is under Consideration">
-          Get started by editing <code>pages/index.js</code>
+          Our website for our resort is under Consideration
         </p>
       </main>
 
