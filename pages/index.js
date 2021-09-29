@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Ibanga Escape" />
-        <p className="Our website for our resort is under Consideration">
+        <p className="description">
           Our website for our resort is under Consideration
         </p>
       </main>
